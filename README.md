@@ -29,9 +29,7 @@ CIFAR-10 (Canadian Institute For Advanced Research) Dataset
 
 - Create a simple DNN model
 
-## Accuracy
-
-- DNN model: 90.00%
+## Accuracy: 90.00%
 
 ## References
 
